@@ -1,0 +1,162 @@
+body {
+    background-color: #D7C9AA;
+    }
+    h1 {
+    text-align: center;
+    font-family: Cinzel Black;
+    font-weight: 600;
+    font-size: 30px;
+    color: #083462;
+    
+    }
+    .hol{
+        text-align: center;
+        font-family: Marcellus SC;
+        font-weight: 600; 
+        font-size: 40px;
+        color:#104483;
+        
+        
+    }
+    
+    .h{
+    background: #9D96E8;
+    padding: 2px;
+    
+    }
+    .s{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+    color: #134FDC;
+    }
+    .l{
+        text-align: left;
+        font-family: Marcellus SC  ;
+        font-weight: 1000;
+        font-size: 35px;
+        color: #091FBD;
+    }
+    .pc{
+        text-align: left;
+        font-family: Marcellus SC  ;
+        font-weight: 1000;
+        font-size: 35px;
+        color: #0D6AC7;
+    }
+    .vb{
+        color: #091FBD;
+    }
+    .ll{
+    text-align: left;
+    font-family: Monotype Corsiva ;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #1F2021;
+    }
+    .pp{
+    background: #9D96E8;
+    padding: 2px;
+    }
+    .hh{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+    color: #BF37A2;
+  
+    }
+    .tre{
+    text-align: left;
+    font-family:Arial;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #BA0CBF;
+    }
+    .pñ{
+        color: #BF37A2 ;
+    }
+    .hy{
+        text-align: left;
+        font-family:Arial;
+        font-weight: 1000;
+        font-size: 25px;
+        color: #C548C9;
+    }
+    .ros{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+    color: #DF8006;
+    }
+    .oso{
+    text-align: left;
+    font-family:Courier New ;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #961010;
+    }
+    .lt{
+        color: #961010;
+    }
+    .sd{
+        text-align: left;
+        font-family:Courier New;
+        font-weight: 1000;
+        font-size: 35px;
+        color: #B34D4D;
+    }
+    .bar{
+    text-align: left;
+    font-family:Courier New;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #B25514;
+    }
+    .elo{
+        padding: 10px;
+        
+    }
+    .dios{
+        padding-top: 30px;
+    }
+    .elsa{
+        display: flex;
+        justify-content: right;
+        position: absolute;
+        top: 6%;
+        right: 5%;
+        width: 180px;
+        height: 185px; ;
+        border-radius: 90%;
+        transform: skewY(2deg) ;
+        overflow: hidden;
+    }
+    .lau{
+        display: flex;
+        justify-content: right;
+        position:absolute;
+        top: 198%;
+        right: 5%;
+        width: 180px;
+        height: 180px; ;
+        border-radius: 100%;
+        transform: skewY(2deg) ;
+        overflow: hidden;
+
+    }
+    .salsa{
+        display: flex;
+        justify-content: right;
+        position:absolute;
+        top: 322%;
+        right: 5%;
+        width: 185px;
+        height: 180px; ;
+        border-radius: 100%;
+        transform: skewY(2deg) ;
+        overflow: hidden;
+
+    }
